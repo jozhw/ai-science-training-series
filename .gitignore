@@ -9,6 +9,8 @@ recorded-lessons/
 *.sh.o[0-9]*
 *.sh.e[0-9]*
 
+03_advanced_neural_networks/data/
+
 logdir
 
 *.pb
