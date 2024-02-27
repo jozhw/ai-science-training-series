@@ -83,3 +83,4 @@ scratch/
 
 # Misc
 .DS_Store
+.vscode
