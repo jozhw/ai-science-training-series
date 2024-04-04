@@ -1,0 +1,1 @@
+For my homework response to the introduction to llms, please see: https://github.com/jozhw/ai-science-training-series/blob/main/04_intro_to_llms/Homework_1.ipynb
