@@ -7,4 +7,5 @@ These models have the capacity to provide valuable recommendations for research 
 By piecing together these variants, researchers can identify potential solutions or cures tailored to individual cancer types, thus advancing precision medicine approaches in oncology.
 
 To evalulate the success of the LLM for this use case, the recommendations that are selected to go through the rigorous
-processes of experimentation will be peer reviewed to confirm the validity of the recommendations.
+processes of experimentation will be peer reviewed to confirm the validity of the recommendations. Also, researchers from that 
+specialty could evaluate those recommendations by a thumbs up or thumbs down process.
