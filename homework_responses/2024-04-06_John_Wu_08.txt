@@ -1,0 +1,10 @@
+What do you think is a particularly good use case for LLMs for science? How would you evaluate it? 
+
+Answer:
+
+LLMs can significantly contribute to the study of cancer genomics, especially when trained on medical sciences literature. 
+These models have the capacity to provide valuable recommendations for research directions, aiding in the synthesis of diverse genetic variants associated with specific cancer subtypes. 
+By piecing together these variants, researchers can identify potential solutions or cures tailored to individual cancer types, thus advancing precision medicine approaches in oncology.
+
+To evalulate the success of the LLM for this use case, the recommendations that are selected to go through the rigorous
+processes of experimentation will be peer reviewed to confirm the validity of the recommendations.
